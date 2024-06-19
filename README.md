@@ -20,7 +20,18 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 <p>
-  ##PART1
+Part 1: Configuring Network Security Groups (NSGs) in Azure
+  
+  - Step 1: Create a Network Security Group
+  - Step 2: Configure Inbound and Outbound Security Rules
+  - Step 3: Associate NSG with Subnet or Network Interface
+    
+Part 2: Inspecting Network Protocols
+
+  - Step 1: Install Network Monitoring Tools
+  - Step 2: Capture Network Traffic
+  - Step 3: Analyze Captured Data
+  <p>
 <h2>Actions and Observations</h2>
 <h2>Part 1: Configuring Network Security Groups (NSGs) in Azure</h2>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
